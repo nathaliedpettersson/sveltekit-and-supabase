@@ -1,6 +1,8 @@
-# create-svelte
+## Sveltekit with Supabase as storage for fake user accounts
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+As part of my internship, I practised using Sveltekit and Supabase by trying to store users by registration through a form. The user should also be able to log in and log out and Supabase should save this information. 
+
+This is not a finished app (!!) It was mainly used for practice and testing out the framework and database. 
 
 ## Creating a project
 
